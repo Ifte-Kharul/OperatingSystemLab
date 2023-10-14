@@ -1,0 +1,2 @@
+First come first serve 
+Shortest job frist

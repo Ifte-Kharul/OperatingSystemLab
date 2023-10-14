@@ -1,0 +1,9 @@
+#! /bin/bash
+a=102
+b=2
+echo  a=$a and b=$b
+echo addition = $sum
+echo substraction = $sub
+echo multiplication =$mul
+echo division =$div
+
